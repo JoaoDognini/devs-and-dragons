@@ -41,6 +41,11 @@ header {
     padding: 8px 36px;
 }
 
+.botao-duelar:hover {
+    cursor: pointer;
+    background: linear-gradient(180deg, #574e00 0%, #ffc85a 100%);
+}
+
 .personagens {
     display: flex;
     flex-wrap: wrap;
